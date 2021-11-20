@@ -18,7 +18,7 @@ Este REST-API cuenta con un simple CRUD (create, read, update, delete) de un obj
 Se utilizo la arquitectura hexagonal en el diseño de la API, esta arquitectura mantiene la parte de dominio como el centro del proyecto, manteniendola aislada de herramientas y accesos externos al programa.
 Dentro de la carpeta src/ encontramos las siguientes carpetas, estas fueron creadas siguiendo la arquitectura mencionada:
 
-![UML](https://github.com/jacovzap/hexagonal-architecture-nodejs-mongodb/blob/main/images/scrfiles.png)
+![UML](https://github.com/jacovzap/hexagonal-architecture-nodejs-mongodb/blob/main/images/hexagonalscaled.png)
 
 dentro de estas podemos encontrar el codigo que dirige a la aplicacion.
 Acomodando estas carpetas a su respectivo lugar en la arquitectura obtenemos el siguiente grafico:
