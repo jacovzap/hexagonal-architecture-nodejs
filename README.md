@@ -24,11 +24,12 @@ Dentro de la carpeta src/ encontramos las siguientes carpetas, estas fueron crea
 
 ![UML](https://github.com/jacovzap/hexagonal-architecture-nodejs-mongodb/blob/main/images/scrfiles.png)
 
-dentro de estas podemos encontrar el codigo que dirige a la aplicacion.
+Dentro de estas podemos encontrar el codigo que dirige a la aplicacion.
 Acomodando estas carpetas a su respectivo lugar en la arquitectura obtenemos el siguiente grafico:
 
 ![UML](https://github.com/jacovzap/hexagonal-architecture-nodejs-mongodb/blob/main/images/hexagonalescaled.png)
 
+Como podemos observar, todavia no se cuenta con una capa de aplicacion, donde se escribiria el codigo correspondiente a los casos de uso del negocio.
 
 ### INSTALL & RUN
 Para utilizar la aplicacion se necesita tener instalado y ejecutando mongodb, puede seguir el siguiente tutorial para su instalacion -> https://docs.mongodb.com/manual/administration/install-community/
