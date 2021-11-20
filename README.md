@@ -4,14 +4,25 @@ Se construyo un REST API de un cliente, en nodejs usando el framework express, y
 Este REST-API cuenta con un simple CRUD (create, read, update, delete) de un objeto "cliente".
 
 ### MODELADO DE LA APLICACION EN C4
-![UML](https://github.com/jacovzap/ObserverPattern/blob/main/Images/UMLBuilderPattern.png)
+
+## Nivel 1: Diagrama de contexto de sistema.
+
+## Nivel 2: Diagrama de Container.
+
+## Nivel 3: Diagrama de Componentes.
+
+## Nivel 4: Código o Diagrama de Clases.
+
 
 ### ARQUITECTURA HEXAGONAL
 Se utilizo la arquitectura hexagonal en el diseño de la API, esta arquitectura mantiene la parte de dominio como el centro del proyecto, manteniendola aislada de herramientas y accesos externos al programa.
 Dentro de la carpeta src/ encontramos las siguientes carpetas, estas fueron creadas siguiendo la arquitectura mencionada:
+
 ![UML](https://github.com/jacovzap/hexagonal-architecture-nodejs-mongodb/blob/main/images/scrfiles.png)
+
 dentro de estas podemos encontrar el codigo que dirige a la aplicacion.
 Acomodando estas carpetas a su respectivo lugar en la arquitectura obtenemos el siguiente grafico:
+
 ![UML](https://github.com/jacovzap/hexagonal-architecture-nodejs-mongodb/blob/main/images/hexagonal.png)
 
 
