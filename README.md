@@ -23,7 +23,7 @@ Dentro de la carpeta src/ encontramos las siguientes carpetas, estas fueron crea
 dentro de estas podemos encontrar el codigo que dirige a la aplicacion.
 Acomodando estas carpetas a su respectivo lugar en la arquitectura obtenemos el siguiente grafico:
 
-![UML](https://github.com/jacovzap/hexagonal-architecture-nodejs-mongodb/blob/main/images/hexagonal.png)
+![UML](https://github.com/jacovzap/hexagonal-architecture-nodejs-mongodb/blob/main/images/hexagonalescaled.png)
 
 
 ### INSTALL & RUN
